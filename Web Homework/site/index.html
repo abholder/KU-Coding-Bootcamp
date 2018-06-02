@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Web Visualization-Weather Dashboard</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+         <a class="navbar-brand" href="index.html">Changes in Latitude</a>
+      </div>
+
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="color:black;font-size:14">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Visualizations <span class="caret"></span></a>
+            <ul class="dropdown-menu" >
+              <li><a href="temp-vs-lat.html">Max Temperature vs Latitude</a></li>
+              <li><a href="hum-vs-lat.html">Humidity vs Latitude</a></li>
+              <li><a href="clouds-vs-lat.html">Cloudiness vs Latitude</a></li>
+              <li><a href="wind-vs-lat.html">Wind Speed vs Latitude</a></li>
+            </ul>
+          </li>
+          <li><a href="comparison.html">Comparison</a></li>
+          <li><a href="city-data.html">City Data</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="row">
+        <div class="col-md-6 pad top"> <br>
+          <h3>Summary: Changes in latitudes, changes in attitudes...</h3> <br>
+        </div>
+        <div class="col-md-6 pad top"> <br>
+          <h3>Visualizations</h3> <br>
+        </div>
+      </div>
+
+    <div class="row">
+        <div class="col-md-6 pad top"> <br>
+          <div class="pull-left">
+            <img src="Temperature vs Latitude.png" alt="Max Temperature vs Latitude" width="200" height="175">
+          </div>
+          <div class="text-left">
+            <p> The purpose of this project was to analyze how weather changes as you get closer to the
+                equator. To accomplish this analysis, we first pulled data from the OpenWeatherMap
+                API to assemble a dataset of over 500 cities. </p> <br>
+            <p> After assembling the dataset, Matplotlib was used to plot various aspects of weather
+                vs. latitude. Factors analyzed included: Temperature, cloudiness, wind-speed, and humidity. </p> <br>
+            <p> Additionally, Matplotlib was used to plot aspects of the weather using longitude
+                vs. latitude. The intent was to visualize a world map using weather plots. This site
+                provides the source data and visualizations created as part of the analysis,
+                as well as explanations and descriptions of any trends and correlations witnessed. </p>
+          </div>
+        </div>
+
+        <div class="col-md-3 pad top"> <br>
+          <div class="pull-right">
+            <a href="temp-vs-lat.html"><img src="Temperature vs Latitude.png" alt="Max Temperature vs Latitude" width="100%" height="100%"></a><br><br>
+            <a href="wind-vs-lat.html"><img src="Wind speed vs Latitude.png" alt="Wind Speed vs Latitude" width="100%" height="100%"></a>
+          </div>
+       </div>
+
+       <div class="col-md-3 pad top"> <br>
+        <div class="pull-right">
+          <a href="hum-vs-lat.html"><img src="Humidity vs Latitude.png" alt="Humidity vs Latitude" width="100%" height="100%"></a><br><br>
+          <a href="clouds-vs-lat.html"><img src="Cloudiness vs Latitude.png" alt="Cloudiness vs Latitude" width="100%" height="100%"></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 pad top"> <br>
+      </div>
+    </div>
+
+  
+  </div>
+
+</body>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</html>

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Web Visualization-Weather Dashboard</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">Changes in Latitude</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Visualizations <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="temp-vs-lat.html">Max Temperature vs Latitude</a></li>
+              <li><a href="hum-vs-lat.html">Humidity vs Latitude</a></li>
+              <li><a href="clouds-vs-lat.html">Cloudiness vs Latitude</a></li>
+              <li><a href="wind-vs-lat.html">Wind Speed vs Latitude</a></li>
+            </ul>
+          </li>
+          <li><a href="comparison.html">Comparison</a></li>
+          <li><a href="city-data.html">City Data</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Creates the Overall Grid -->
+  <div class="container">
+
+    <!-- First Row -->
+    <div class="row">
+
+      <div class="col-md-8 pad top"> <br>
+
+        <h1>Wind Speed vs Latitude</h1> <br>
+
+          <div class="pull-left">
+            <img src="Wind speed vs Latitude.png" alt="Wind Speed vs Latitude">
+          </div>
+
+        </div> <!-- 8 Columns -->
+
+        <div class="col-md-4 pad top"> <br>
+
+          <h3>Observations</h3> <br>
+
+            <div class="pull-right">
+              <p>There does seem to be a correlation between wind speed and the equator. There is a larger grouping of lower wind speeds closer to the equator and if we were to draw a line through the dataset, it appears as though the wind speed stays low, but also does tend to get higher as the latitude moves positively away from the equator.</p>
+            </div>
+
+        </div> <!-- 4 Columns -->
+
+    </div> <!-- Row -->
+
+  </div> <!-- Container -->
+
+  </body>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  </html>
