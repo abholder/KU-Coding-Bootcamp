@@ -1,0 +1,301 @@
+CASE ID,SOURCE,DEPARTMENT,WORK GROUP,REQUEST TYPE,CATEGORY,TYPE,DETAIL,CREATION DATE,CREATION TIME,CREATION MONTH,CREATION YEAR,STATUS,EXCEEDED EST TIMEFRAME,CLOSED DATE,CLOSED MONTH,CLOSED YEAR,DAYS TO CLOSE,STREET ADDRESS,ADDRESS WITH GEOCODE,ZIP CODE,NEIGHBORHOOD,COUNTY,COUNCIL DISTRICT,POLICE DISTRICT,PARCEL ID NO,LATITUDE,LONGITUDE,CASE URL,30-60-90 Days Open Window
+2014123049,SYS,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,9/23/14,10:23 AM,9,2014,RESOL,Y,6/25/18,6,2018,"1,371",4717 NE 45TH TER,"4717 NE 45TH TER
+64117
+(39.175993, -94.523942)",64117,Winnwood,Clay,1,Shoal Creek,76031,39.175993,-94.523942,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2014123049,
+2016002855,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-On list,Property / Buildings / Construction,Dangerous Building,Standard,1/11/16,8:42 AM,1,2016,RESOL,Y,2/9/18,2,2018,760,5435 E 28TH TER,"5435 E 28TH TER
+64128
+(39.072903, -94.518698)",64128,South Blue Valley,Jackson,3,East,21655,39.072903,-94.518698,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2016002855,
+2015094706,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,8/8/15,6:54 AM,8,2015,RESOL,Y,5/3/18,5,2018,999,7001 E 16TH TER,"7001 E 16TH TER
+64126
+(39.091047, -94.500874)",64126,East Blue Valley,Jackson,3,East,7330,39.091047,-94.500874,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2015094706,
+2010071747,PHONE,NHS,NHS-Solid Waste-,Trash Recycling Missed by Contractor,Trash,Recycle,Contractor,2/23/10,7:39 AM,2,2010,RESOL,N,2/23/10,2,2010,0,13001 E 59TH TER,"13001 E 59TH TER
+64133
+(39.013549, -94.428135)",64133,Blue Vue Hills,Jackson,5,East,64380,39.013549,-94.428135,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2010071747,
+2014080650,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,6/24/14,12:11 PM,6,2014,RESOL,Y,6/27/18,6,2018,"1,464",3002 LISTER AVE,"3002 LISTER AVE
+64128
+(39.070634, -94.528934)",64128,Knoches Park,Jackson,3,East,22793,39.070634,-94.528934,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2014080650,
+2017017888,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,2/16/17,7:30 AM,2,2017,RESOL,Y,6/7/18,6,2018,476,2508 E 69TH ST,"2508 E 69TH ST
+64132
+(39.001971, -94.557283)",64132,Blenheim Square Research Hospital,Jackson,5,Metro,113882,39.001971,-94.557283,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017017888,
+2016123146,PHONE,City Planning and Development,City Planning and Development-Dev Comp-Zoning,Prop/Build/Construct - Land Use / Zoning - Miscellaneous Zoning,Property / Buildings / Construction,Land Use / Zoning Issue,Miscellaneous Zoning,10/3/16,4:10 PM,10,2016,RESOL,N,7/25/18,7,2018,660,7230 WORNALL RD,"7230 WORNALL RD
+64114
+(38.9965, -94.594358)",64114,Ward Parkway,Jackson,6,Metro,110649,38.9965,-94.594358,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2016123146,
+2016133215,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Other Private Property,10/25/16,9:04 PM,10,2016,RESOL,Y,5/3/18,5,2018,555,1600 BRISTOL AVE,"1600 BRISTOL AVE
+64126
+(39.092275, -94.500291)",64126,East Blue Valley,Jackson,3,East,7290,39.092275,-94.500291,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2016133215,
+2017009064,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,1/24/17,1:20 PM,1,2017,RESOL,Y,5/3/18,5,2018,464,12206 E 59TH ST,"12206 E 59TH ST
+64133
+(39.014959, -94.437536)",64133,Fairway Hills,Jackson,5,East,63692,39.014959,-94.437536,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017009064,
+2017050003,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,5/2/17,9:26 AM,5,2017,OPEN,Y,,,,,6835 BELLEFONTAINE AVE,"6835 BELLEFONTAINE AVE
+64132
+(39.001986, -94.550542)",64132,Self Help Neighborhood Council,Jackson,5,Metro,2770,39.001986,-94.550542,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017050003,90
+2017058002,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,5/18/17,8:59 AM,5,2017,RESOL,Y,5/3/18,5,2018,350,1543 LAWN AVE,"1543 LAWN AVE
+64127
+(39.092613, -94.527612)",64127,East Community Team North,Jackson,3,East,8675,39.092613,-94.527612,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017058002,
+2016066585,EMAIL,NHS,NHS-Neighborhood Preservation-Administration,Government-NHS (Neighborhood Housing Services)-No Known Property Owner,Government,NHS (Neighborhood Housing Services),No Known Property Owner,6/13/16,4:14 PM,6,2016,OPEN,Y,,,,,3016 BALES AVE,"3016 BALES AVE
+64128
+(39.070716, -94.542777)",64128,Ingleside,Jackson,3,East,24000,39.070716,-94.542777,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2016066585,90
+2015012325,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,2/5/15,11:33 AM,2,2015,RESOL,Y,4/6/18,4,2018,"1,156",11314 HERRICK AVE,"11314 HERRICK AVE
+64134
+(38.917354, -94.496792)",64134,Ruskin Heights,Jackson,6,South,73082,38.917354,-94.496792,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2015012325,
+2017053096,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Vacant,5/8/17,4:00 PM,5,2017,RESOL,Y,6/25/18,6,2018,413,10730 WEST LONGVIEW PKWY,"10730 WEST LONGVIEW PKWY
+64134
+(38.927238, -94.48646)",64134,Ruskin Hills,Jackson,6,South,208880,38.927238,-94.48646,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017053096,
+2017110302,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,8/28/17,10:55 AM,8,2017,RESOL,Y,5/3/18,5,2018,248,11015 HERRICK AVE,"11015 HERRICK AVE
+64134
+(38.922838, -94.495769)",64134,Ruskin Hills,Jackson,6,South,71363,38.922838,-94.495769,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017110302,
+2017083219,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,7/7/17,11:56 AM,7,2017,OPEN,Y,,,,,2743 GARFIELD AVE,"2743 GARFIELD AVE
+64109
+(39.07564, -94.558024)",64109,Key Coalition,Jackson,3,Central,26684,39.07564,-94.558024,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017083219,90
+2017062642,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-On list,Property / Buildings / Construction,Dangerous Building,Standard,5/30/17,7:55 AM,5,2017,RESOL,Y,2/1/18,2,2018,247,609 W 96TH ST,"609 W 96TH ST
+64114
+(38.954234, -94.599078)",64114,Lea Manor,Jackson,6,South,152665,38.954234,-94.599078,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017062642,
+2017102570,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,8/14/17,10:35 AM,8,2017,OPEN,Y,,,,,3626 AGNES AVE,"3626 AGNES AVE
+64128
+(39.059568, -94.549098)",64128,Oak Park Northwest,Jackson,3,East,28721,39.059568,-94.549098,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017102570,90
+2017115636,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,9/8/17,8:32 AM,9,2017,OPEN,Y,,,,,2601 POPLAR AVE,"2601 POPLAR AVE
+64127
+(39.077926, -94.525487)",64127,East Community Team South,Jackson,3,East,19773,39.077926,-94.525487,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017115636,90
+2017118860,WEB,City Planning and Development,City Planning and Development-Permit Compliance-,Prop/Build/Construct-Construction Issue/Concern-Work without permit,Property / Buildings / Construction,Construction Issue/Concern,Work Without Permit,9/14/17,12:48 PM,9,2017,RESOL,Y,6/7/18,6,2018,266,3113 THOMPSON AVE,"3113 THOMPSON AVE
+64124
+(39.107767, -94.544966)",64124,Scarritt Point,Jackson,4,East,41303,39.107767,-94.544966,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017118860,
+2017076634,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-On list,Property / Buildings / Construction,Dangerous Building,Standard,6/26/17,8:00 AM,6,2017,RESOL,Y,2/5/18,2,2018,224,4738 HARVARD AVE,"4738 HARVARD AVE
+64133
+(39.035083, -94.450299)",64133,Stayton Meadows,Jackson,3,East,49647,39.035083,-94.450299,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017076634,
+2017146956,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Open Storage,11/21/17,10:02 AM,11,2017,RESOL,Y,2/15/18,2,2018,86,5612 N Booth Ave,"5612 N Booth Ave
+64119
+(39.194728, -94.480381)",64119,Gracemor-Randolph Corners,CLAY,1,Shoal Creek,90608,39.194728,-94.480381,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017146956,
+2017107909,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-On list,Property / Buildings / Construction,Dangerous Building,Standard,8/23/17,12:40 PM,8,2017,RESOL,Y,10/27/17,10,2017,65,320 N BELMONT BLVD,"320 N BELMONT BLVD
+64123
+(39.114741, -94.509616)",64123,North Indian Mound,Jackson,4,East,45725,39.114741,-94.509616,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017107909,
+2017109992,PHONE,NHS,NHS-Neighborhood Preservation-DART,Prop/Build/Construct-Property Maintenance-DART,Property / Buildings / Construction,Property Maintenance,DART,8/28/17,7:30 AM,8,2017,RESOL,Y,7/25/18,7,2018,331,507 WABASH AVE,"507 WABASH AVE
+64124
+(39.108223, -94.552227)",64124,Pendleton Heights,Jackson,3,Central,40139,39.108223,-94.552227,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017109992,
+2018052998,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,4/30/18,6:38 PM,4,2018,OPEN,Y,,,,,8400 E 93RD TER,"8400 E 93RD TER
+64138
+(38.954093, -94.49178)",64138,Fairwood And Robandee,Jackson,5,South,68749,38.954093,-94.49178,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018052998,60
+2018017844,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,2/11/18,3:14 PM,2,2018,OPEN,Y,,,,,8100 E 91ST ST,"8100 E 91ST ST
+64138
+(38.958411, -94.494546)",64138,Fairwood And Robandee,Jackson,5,South,68971,38.958411,-94.494546,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018017844,90
+2017110966,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-On list,Property / Buildings / Construction,Dangerous Building,Standard,8/29/17,8:31 AM,8,2017,RESOL,Y,1/3/18,1,2018,127,1828 E 69TH ST,"1828 E 69TH ST
+64132
+(39.002237, -94.564278)",64132,Neighbors United For Action,Jackson,5,Metro,113957,39.002237,-94.564278,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017110966,
+2017119025,PHONE,City Planning and Development,City Planning and Development-Dev Comp-Zoning,Prop/Build/Construct - Land Use / Zoning - Unapproved Land Use,Property / Buildings / Construction,Land Use / Zoning Issue,Unapproved Land Use,9/14/17,4:15 PM,9,2017,RESOL,Y,7/25/18,7,2018,314,4809 ROANOKE PKWY,"4809 ROANOKE PKWY
+64112
+(39.040191, -94.597078)",64112,West Plaza,Jackson,4,Central,142483,39.040191,-94.597078,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017119025,
+2017122522,PHONE,NHS,NHS-Dangerous Buildings-,Prop/Build/Construct-Dangerous Building-Emergency,Property / Buildings / Construction,Dangerous Building,Emergency,9/22/17,8:12 AM,9,2017,RESOL,Y,11/22/17,11,2017,61,3521 SMART AVE,"3521 SMART AVE
+64124
+(39.10928, -94.539202)",64124,Scarritt Point,Jackson,4,East,41980,39.10928,-94.539202,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2017122522,
+2018049172,PHONE,Water Services,Water Services-Line Maintenance-Wastewater,Storm Water / Sewer-Sewer Odor-Outdoor,Storm Water / Sewer,Sewer Odor,Outdoor,4/23/18,10:42 AM,4,2018,RESOL,Y,7/25/18,7,2018,93,1101 NE COOKINGHAM DR,"1101 NE COOKINGHAM DR
+64155
+(39.30339, -94.564967)",64155,Nashua,Clay,2,Shoal Creek,101003,39.30339,-94.564967,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018049172,
+2018049261,PHONE,Water Services,Water Services-Line Maintenance-Wastewater,Storm Water / Sewer-Sewer Referral-Investigation,Storm Water / Sewer,Sewer Referral,Investigation,4/23/18,11:52 AM,4,2018,RESOL,Y,7/25/18,7,2018,93,6207 E 35TH ST,"6207 E 35TH ST
+64129
+(39.061061, -94.511352)",64129,Leeds,Jackson,3,East,32355,39.061061,-94.511352,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018049261,
+2018057525,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,5/8/18,3:29 PM,5,2018,RESOL,Y,6/27/18,6,2018,50,4217 CYPRESS AVE,"4217 CYPRESS AVE
+64130
+(39.048836, -94.531765)",64130,Vineyard,Jackson,3,East,31786,39.048836,-94.531765,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018057525,
+2018072033,PHONE,Water Services,Water Services-Line Maintenance-Pipeline,Water-Pipeline Referral-Curb-box / Service Line,Water,Pipeline Referral,Curb-box / Service Line,6/5/18,10:36 AM,6,2018,RESOL,N,6/11/18,6,2018,6,14127 E US 40 HWY,"14127 E US 40 HWY
+64136
+(39.034053, -94.414295)",64136,Little Blue,Jackson,5,East,62934,39.034053,-94.414295,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018072033,
+2018053775,PHONE,Public Works,Public Works-Street and Traffic-District 3,Streets / Roadways / Alleys-Pothole-District 3,Streets / Roadways / Alleys,Pothole,District 3,5/1/18,5:47 PM,5,2018,RESOL,Y,5/3/18,5,2018,2,5619 E BANNISTER RD,"5619 E BANNISTER RD
+64137
+(38.952635, -94.522301)",64137,Fairlane,Jackson,5,South,57034,38.952635,-94.522301,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018053775,
+2018051933,PHONE,Water Services,Water Services-Line Maintenance-Wastewater,Storm Water / Sewer-Sewer Odor-Indoor,Storm Water / Sewer,Sewer Odor,Indoor,4/27/18,2:15 PM,4,2018,RESOL,Y,7/25/18,7,2018,89,7928 TROOST AVE,"7928 TROOST AVE
+64131
+(38.982943, -94.576508)",64131,Rockhill Manor,Jackson,5,Metro,119229,38.982943,-94.576508,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018051933,
+2018077445,PHONE,NHS,NHS-Solid Waste-,Animals / Pets-Dead Animal -Street,Animals / Pets,Dead Animal,Street,6/14/18,8:13 AM,6,2018,RESOL,Y,6/25/18,6,2018,11,3947 PASEO,"3947 PASEO
+64110
+(39.054225, -94.567218)",64110,Ivanhoe Southwest,Jackson,3,Central,135533,39.054225,-94.567218,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018077445,
+2018054304,PHONE,NHS,NHS-Animal Health and Safety-,Animals / Pets-Stray-At Large - Aggressive,Animals / Pets,Stray,At Large - Aggressive,5/2/18,2:09 PM,5,2018,RESOL,N,5/3/18,5,2018,1,11601 SUNNYSLOPE DR,"11601 SUNNYSLOPE DR
+64134
+(38.914109, -94.521956)",64134,Hickman Mills,Jackson,6,South,74715,38.914109,-94.521956,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054304,
+2018079161,PHONE,NHS,NHS-Animal Health and Safety-,Animals / Pets-Services-Off Leash,Animals / Pets,Services,Off Leash - Investigation,6/18/18,10:53 AM,6,2018,RESOL,N,6/25/18,6,2018,7,9701 LAWNDALE AVE,"9701 LAWNDALE AVE
+64137
+(38.948704, -94.523015)",64137,Fairlane,Jackson,5,South,57066,38.948704,-94.523015,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018079161,
+2018072833,WEB,Water Services,Water Services-Meter and Field Services-,Water-No Water / Pressure-Low Pressure,Water,No Water / Pressure,Low Pressure,6/6/18,9:46 AM,6,2018,RESOL,N,6/7/18,6,2018,1,3609 NW 52ND TER,"3609 NW 52ND TER
+64151
+(39.188978, -94.623784)",64151,Parkdale And Walden,Platte,2,North,218274,39.188978,-94.623784,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018072833,
+2018099295,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,7/24/18,11:35 PM,7,2018,OPEN,N,,,,,10636 WALROND AVE,"10636 WALROND AVE
+64137
+(38.932365, -94.552668)",64137,St Catherines Gardens,Jackson,6,South,61912,38.932365,-94.552668,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099295,0
+2018099306,PHONE,Water Services,Water Services-Line Maintenance-Restoration,Water-Pipeline Referral-Restoration,Water,Pipeline Referral,Restoration,7/25/18,7:12 AM,7,2018,OPEN,N,,,,,434 NW 58TH ST,"434 NW 58TH ST
+64118
+(39.200208, -94.588453)",64118,Tanglewood And Regency North,Clay,2,North,96965,39.200208,-94.588453,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099306,0
+2018073019,PHONE,Public Works,Public Works-Capital Projects-Traffic Signals,Lights / Signals-Traffic Signal-Signal pole damage,Lights / Signals,Traffic Signal,Signal Pole Damage,6/6/18,12:43 PM,6,2018,RESOL,N,6/7/18,6,2018,1,514 W 26TH ST,"514 W 26TH ST
+64108
+(39.080618, -94.591215)",64108,Crown Center,Jackson,4,Central,235862,39.080618,-94.591215,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073019,
+2018073018,PHONE,Public Works,Public Works-Capital Projects-Traffic Signals,Lights / Signals-Traffic Signal-Signal pole damage,Lights / Signals,Traffic Signal,Signal Pole Damage,6/6/18,12:40 PM,6,2018,RESOL,N,6/7/18,6,2018,1,1801 E 18TH ST,"1801 E 18TH ST
+64127
+(39.090712, -94.5605)",64127,Wendell Phillips,Jackson,3,Central,12962,39.090712,-94.5605,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073018,
+2018099350,PHONE,Parks and Rec,Parks and Rec-Landscape Services-Forestry,Trees-Removal-Tree Limbs,Trees,Removal,Tree Limbs,7/25/18,8:23 AM,7,2018,RESOL,N,7/27/18,7,2018,2,5528 HOLMES ST,"5528 HOLMES ST
+64110
+(39.026388, -94.578821)",64110,Crestwood,Jackson,4,Metro,144688,39.026388,-94.578821,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099350,
+2018099396,PHONE,NHS,NHS-Solid Waste-Administration,Trash / Recycling-Services-Call Back Request,Trash / Recycling,Services,Call Back Request,7/25/18,9:08 AM,7,2018,RESOL,N,7/25/18,7,2018,0,2614 E 9TH ST,"2614 E 9TH ST
+64124
+(39.10279, -94.550563)",64124,Independence Plaza,Jackson,3,East,10632,39.10279,-94.550563,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099396,
+2018099410,EMAIL,Parks and Rec,Parks and Rec-Landscape Services-Forestry,Trees-Trimming-Tree Limbs,Trees,Trimming,Tree Limbs,7/25/18,9:16 AM,7,2018,OPEN,N,,,,,449 W 67TH ST,"449 W 67TH ST
+64113
+(39.007158, -94.596028)",64113,Armour Fields,Jackson,6,Metro,109365,39.007158,-94.596028,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099410,0
+2018073202,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Open Storage,6/6/18,3:48 PM,6,2018,OPEN,N,,,,,8008 E 93RD ST,"8008 E 93RD ST
+64138
+(38.955124, -94.495239)",64138,Fairwood And Robandee,Jackson,5,South,69378,38.955124,-94.495239,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073202,0
+2018099382,PHONE,NHS,NHS-Solid Waste-Abatement Referral,Trash / Recycling-Dumping-Solid Waste Referral,Trash / Recycling,Dumping,Solid Waste Referral,7/25/18,8:54 AM,7,2018,RESOL,N,7/26/18,7,2018,1,1601 OAKLAND AVE,"1601 OAKLAND AVE
+64126
+(39.091516, -94.494775)",64126,Blue Valley Industrial,Jackson,3,East,46472,39.091516,-94.494775,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099382,
+2018077363,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,6/13/18,6:19 PM,6,2018,RESOL,N,6/14/18,6,2018,1,13306 E 54TH ST,"13306 E 54TH ST
+64133
+(39.023477, -94.423034)",64133,Blue Vue Hills,Jackson,5,East,64088,39.023477,-94.423034,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018077363,
+2018077361,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by City,Trash / Recycling,Trash Collection,Missed by City,6/13/18,6:17 PM,6,2018,RESOL,N,6/14/18,6,2018,1,1034 MONROE AVE,"1034 MONROE AVE
+64127
+(39.099804, -94.539028)",64127,Lykins,Jackson,3,East,9911,39.099804,-94.539028,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018077361,
+2018073256,PHONE,NHS,NHS-Animal Health and Safety-Admin,Animals / Pets-Services-Call Back Request,Animals / Pets,Services,Call Back Request,6/6/18,5:12 PM,6,2018,RESOL,N,6/7/18,6,2018,1,4604 NE 105TH ST,"4604 NE 105TH ST
+64156
+(39.284063, -94.525248)",64156,Shoal Creek,Clay,1,Shoal Creek,220847,39.284063,-94.525248,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073256,
+2018082163,FAX,NHS,NHS-Neighborhood Preservation-,Property Violations,Mowing / Weeds,Private / Commercial,Lot - Structure,6/22/18,2:42 PM,6,2018,RESOL,N,6/25/18,6,2018,3,5034 WALROND AVE,"5034 WALROND AVE
+64130
+(39.034056, -94.548105)",64130,North Town Fork Creek,Jackson,3,Metro,35353,39.034056,-94.548105,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018082163,
+2018073287,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Recycling-Missed by Contractor South,Trash / Recycling,Recycling,Missed by Contractor South,6/6/18,6:17 PM,6,2018,RESOL,N,6/7/18,6,2018,1,407 E 105TH TER,"407 E 105TH TER
+64131
+(38.93634, -94.586371)",64131,Bridlespur,Jackson,6,South,154036,38.93634,-94.586371,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073287,
+2018073307,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Recycling-Missed by Contractor South,Trash / Recycling,Recycling,Missed by Contractor South,6/6/18,6:42 PM,6,2018,RESOL,N,6/7/18,6,2018,1,10232 LOCUST ST,"10232 LOCUST ST
+64131
+(38.941655, -94.586923)",64131,Willow Creek,Jackson,6,South,153552,38.941655,-94.586923,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073307,
+2018073308,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,6/6/18,6:44 PM,6,2018,RESOL,N,6/7/18,6,2018,1,9207 CENTRAL ST,"9207 CENTRAL ST
+64114
+(38.96155, -94.593505)",64114,Boone Hills,Jackson,6,Metro,151611,38.96155,-94.593505,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073308,
+2018099484,PHONE,Parks and Rec,Parks and Rec-Landscape Services-Forestry,Trees-Trimming-Tree Limbs,Trees,Trimming,Tree Limbs,7/25/18,10:33 AM,7,2018,OPEN,N,,,,,117 E 113TH ST,"117 E 113TH ST
+64114
+(38.921725, -94.590887)",64114,Red Bridge South,Jackson,6,South,155465,38.921725,-94.590887,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099484,0
+2018073313,WEB,Public Works,Public Works-Street and Traffic-District 2,Streets / Roadways / Alleys-Pothole-District 2,Streets / Roadways / Alleys,Pothole,District 2,6/6/18,6:48 PM,6,2018,RESOL,N,6/8/18,6,2018,2,1660 BROADWAY BLVD,"1660 BROADWAY BLVD
+64108
+(39.093152, -94.588971)",64108,Westside North,Jackson,4,Central,123446,39.093152,-94.588971,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073313,
+2018073366,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,6/7/18,7:07 AM,6,2018,RESOL,N,6/7/18,6,2018,0,501 W 100TH TER,"501 W 100TH TER
+64114
+(38.946121, -94.598606)",64114,Lea Manor,Jackson,6,South,152926,38.946121,-94.598606,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073366,
+2018073370,WEB,Water Services,Water Services-Meter and Field Services-,Water-No Water / Pressure-No Water,Water,No Water / Pressure,No Water,6/7/18,7:17 AM,6,2018,RESOL,N,6/7/18,6,2018,0,2401 SOUTHWEST BLVD,"2401 SOUTHWEST BLVD
+64108
+(39.083646, -94.595202)",64108,Westside South,Jackson,4,Central,124371,39.083646,-94.595202,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073370,
+2018054712,PHONE,Public Works,Public Works-Capital Projects-Preservation,Streets / Roadways / Alleys-Resurfacing-District 2,Streets / Roadways / Alleys,Resurfacing,District 2,5/3/18,9:28 AM,5,2018,RESOL,N,5/3/18,5,2018,0,29 E 53RD ST,"29 E 53RD ST
+64112
+(39.030655, -94.586131)",64112,Countryside,Jackson,4,Metro,143936,39.030655,-94.586131,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054712,
+2018057548,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Parked on Unapproved Surface,Car Private Property,5/8/18,3:50 PM,5,2018,OPEN,Y,,,,,6603 E 110TH TER,"6603 E 110TH TER
+64134
+(38.923398, -94.513281)",64134,Stratford Estates,Jackson,6,South,59466,38.923398,-94.513281,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018057548,30
+2018057547,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,5/8/18,3:47 PM,5,2018,RESOL,Y,6/14/18,6,2018,37,3320 N BRIGHTON AVE,"3320 N BRIGHTON AVE
+64117
+(39.154708, -94.522369)",64117,Chouteau Estates,Clay,1,Shoal Creek,79199,39.154708,-94.522369,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018057547,
+2018057551,PHONE,Water Services,Water Services-Meter and Field Services-,Water-Leak-Hydrant,Water,Leak,Hydrant,5/8/18,3:54 PM,5,2018,RESOL,N,5/10/18,5,2018,2,7651 WASHINGTON ST,"7651 WASHINGTON ST
+64114
+(38.988903, -94.595109)",64114,Ward Parkway,Jackson,6,Metro,119788,38.988903,-94.595109,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018057551,
+2018054662,PHONE,Water Services,Water Services-Meter and Field Services-,Water-No Water / Pressure-No Water,Water,No Water / Pressure,No Water,5/3/18,8:40 AM,5,2018,RESOL,N,5/12/18,5,2018,9,529 SOUTHWEST BLVD,"529 SOUTHWEST BLVD
+64108
+(39.086029, -94.591144)",64108,Westside North,Jackson,4,Central,123916,39.086029,-94.591144,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054662,
+2018099545,EMAIL,Public Works,Public Works-Street and Traffic-District 3,Streets / Roadways / Alleys-Street Clean Up-District 3,Streets / Roadways / Alleys,Street Clean Up,District 3,7/25/18,11:30 AM,7,2018,RESOL,N,7/25/18,7,2018,0,8431 HICKMAN MILLS DR,"8431 HICKMAN MILLS DR
+64132
+(38.973459, -94.54904)",64132,Marlborough East,Jackson,5,Metro,5022,38.973459,-94.54904,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099545,
+2018073394,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,6/7/18,7:58 AM,6,2018,RESOL,N,6/7/18,6,2018,0,9901 WAYNE AVE,"9901 WAYNE AVE
+64131
+(38.94756, -94.570605)",64131,Linden Hills And Indian Heights,Jackson,5,South,154143,38.94756,-94.570605,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073394,
+2018073401,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,6/7/18,8:06 AM,6,2018,RESOL,N,6/7/18,6,2018,0,3806 BIRCHWOOD DR,"3806 BIRCHWOOD DR
+64137
+(38.936814, -94.544239)",64137,St Catherines Gardens,Jackson,6,South,57401,38.936814,-94.544239,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073401,
+2018054812,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Secondary Structure,5/3/18,10:51 AM,5,2018,OPEN,N,,,,,4608 LIBERTY ST,"4608 LIBERTY ST
+64112
+(39.044082, -94.603659)",64112,West Plaza,Jackson,4,Central,141714,39.044082,-94.603659,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054812,0
+2018054822,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,5/3/18,11:00 AM,5,2018,OPEN,N,,,,,428 W 60TH TER,"428 W 60TH TER
+64113
+(39.018287, -94.594694)",64113,Country Club,Jackson,6,Metro,108190,39.018287,-94.594694,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054822,0
+2018035430,WEB,NHS,NHS-Neighborhood Preservation-Abatement,Trash / Recycling-Nuisance-Land Bank,Trash / Recycling,Nuisance,Land Bank,3/22/18,10:26 PM,3,2018,RESOL,Y,5/10/18,5,2018,49,5938 AGNES AVE,"5938 AGNES AVE
+64130
+(39.018062, -94.551621)",64130,South Town Fork Creek,Jackson,5,Metro,1065,39.018062,-94.551621,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018035430,
+2018054819,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,5/3/18,10:58 AM,5,2018,RESOL,Y,6/4/18,6,2018,32,611 W 61ST TER,"611 W 61ST TER
+64113
+(39.016312, -94.596143)",64113,Greenway Fields,Jackson,6,Metro,108611,39.016312,-94.596143,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054819,
+2018099568,PHONE,Parks and Rec,Parks and Rec-Landscape Services-Forestry,Trees-Removal-Declining,Trees,Removal,Declining,7/25/18,11:58 AM,7,2018,OPEN,N,,,,,1027 ARNO RD,"1027 ARNO RD
+64113
+(39.003823, -94.602511)",64113,Armour Fields,Jackson,6,Metro,109555,39.003823,-94.602511,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099568,0
+2018054826,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,5/3/18,11:02 AM,5,2018,OPEN,N,,,,,2001 PROSPECT AVE,"2001 PROSPECT AVE
+64127
+(39.088013, -94.551621)",64127,Washington Wheatley,Jackson,3,East,15438,39.088013,-94.551621,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054826,0
+2018082428,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,6/24/18,8:52 AM,6,2018,RESOL,N,6/25/18,6,2018,1,8100 E 91ST ST,"8100 E 91ST ST
+64138
+(38.958411, -94.494546)",64138,Fairwood And Robandee,Jackson,5,South,68971,38.958411,-94.494546,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018082428,
+2018054835,EMAIL,Water Services,Water Services-Line Maintenance-Leaf Brush,Trash / Recycling-Leaf / Brush-Missed Pick Up,Trash / Recycling,Leaf / Brush,Missed Pick Up,5/3/18,11:09 AM,5,2018,RESOL,N,5/3/18,5,2018,0,116 HUNTINGTON RD,"116 HUNTINGTON RD
+64113
+(39.019484, -94.58995)",64113,Wornall Homestead,Jackson,6,Metro,106641,39.019484,-94.58995,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054835,
+2018054859,PHONE,NHS,NHS-Solid Waste-,Animals / Pets-Dead Animal -Street,Animals / Pets,Dead Animal,Street,5/3/18,11:28 AM,5,2018,RESOL,N,5/3/18,5,2018,0,2205 E 85TH ST,"2205 E 85TH ST
+64132
+(38.972641, -94.562333)",64132,Legacy East,Jackson,5,Metro,150615,38.972641,-94.562333,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054859,
+2018054844,PHONE,Water Services,Water Services-Line Maintenance-Stormwater,Storm / Sewer-Stormwater Referral-Investigation,Storm Water / Sewer,Storm Water Referral,Investigation,5/3/18,11:19 AM,5,2018,RESOL,Y,6/28/18,6,2018,56,28 W 82ND ST,"28 W 82ND ST
+64114
+(38.979774, -94.591444)",64114,Waldo Homes,Jackson,6,Metro,118995,38.979774,-94.591444,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054844,
+2018054825,PHONE,Water Services,Water Services-Meter and Field Services-,Water-Leak-At Curb / In Yard,Water,Leak,At Curb / In Yard,5/3/18,11:02 AM,5,2018,RESOL,N,5/5/18,5,2018,2,5631 NORTON AVE,"5631 NORTON AVE
+64130
+(39.02298, -94.537881)",64130,Swope Parkway-Elmwood,Jackson,5,Metro,36910,39.02298,-94.537881,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054825,
+2018054858,PHONE,Water Services,Water Services-Meter and Field Services-,Water-No Water / Pressure-Low Pressure,Water,No Water / Pressure,Low Pressure,5/3/18,11:28 AM,5,2018,RESOL,N,5/5/18,5,2018,2,7401 AGNES AVE,"7401 AGNES AVE
+64132
+(38.992235, -94.552194)",64132,Noble And Gregory Ridge,Jackson,5,Metro,3810,38.992235,-94.552194,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054858,
+2018054831,PHONE,Public Works,Public Works-Street and Traffic-District 2,Streets / Roadways / Alleys-Pothole-District 2,Streets / Roadways / Alleys,Pothole,District 2,5/3/18,11:06 AM,5,2018,RESOL,N,5/7/18,5,2018,4,801 WESTPORT RD,"801 WESTPORT RD
+64111
+(39.050975, -94.595566)",64111,Old Westport,Jackson,4,Central,131484,39.050975,-94.595566,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054831,
+2018054830,PHONE,Public Works,Public Works-Street and Traffic-District 3,Storm Water / Sewer-Culvert-South,Storm Water / Sewer,Culvert,South,5/3/18,11:06 AM,5,2018,RESOL,N,5/8/18,5,2018,5,4924 LOGAN AVE,"4924 LOGAN AVE
+64136
+(39.029928, -94.407495)",64136,Little Blue,Jackson,5,East,62963,39.029928,-94.407495,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054830,
+2018082431,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Graffiti,6/24/18,10:05 AM,6,2018,RESOL,N,6/25/18,6,2018,1,52 GRAND BLVD,"52 GRAND BLVD
+64106
+(39.113708, -94.581808)",64106,River Market,Jackson,4,Central,259943,39.113708,-94.581808,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018082431,
+2018054873,EMAIL,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Main Structure,5/3/18,11:36 AM,5,2018,OPEN,N,,,,,4611 FAIRMOUNT AVE,"4611 FAIRMOUNT AVE
+64112
+(39.044095, -94.604049)",64112,West Plaza,Jackson,4,Central,141745,39.044095,-94.604049,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054873,0
+2018054883,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,5/3/18,11:48 AM,5,2018,OPEN,N,,,,,8035 LYDIA AVE,"8035 LYDIA AVE
+64131
+(38.981738, -94.57121)",64131,Marlborough Heights/Marlborough Pride,Jackson,5,Metro,116542,38.981738,-94.57121,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054883,0
+2018073445,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Recycling-Missed by Contractor South,Trash / Recycling,Recycling,Missed by Contractor South,6/7/18,8:45 AM,6,2018,RESOL,N,6/7/18,6,2018,0,5 E BRIDLESPUR DR,"5 E BRIDLESPUR DR
+64114
+(38.932539, -94.592252)",64114,Bridlespur,Jackson,6,South,155028,38.932539,-94.592252,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073445,
+2018082434,WEB,City Planning and Development,City Planning and Development-Dev Comp-Zoning,Prop/Build/Construct-Land Use / Zoning Issue-Business in a residence,Property / Buildings / Construction,Land Use / Zoning Issue,Business In A Residence,6/24/18,11:21 AM,6,2018,OPEN,N,,,,,8018 NW 79TH TER,"8018 NW 79TH TER
+64152
+(39.239532, -94.673653)",64152,Park Forest,Platte,2,North,169953,39.239532,-94.673653,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018082434,0
+2018054880,PHONE,NHS,NHS-Neighborhood Preservation-Abatement,Trees-Land Bank-Tree Debris,Trees,Land Bank,Tree Debris,5/3/18,11:43 AM,5,2018,RESOL,Y,7/12/18,7,2018,70,2008 BRIGHTON AVE,"2008 BRIGHTON AVE
+64127
+(39.08664, -94.524679)",64127,East Community Team North,Jackson,3,East,18715,39.08664,-94.524679,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054880,
+2018064284,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Trash Collection-Missed by Contractor South,Trash / Recycling,Trash Collection,Missed by Contractor South,5/21/18,1:14 PM,5,2018,RESOL,N,5/22/18,5,2018,1,8703 E 114TH ST,"8703 E 114TH ST
+64134
+(38.9162, -94.489966)",64134,Ruskin Hills,Jackson,6,South,73103,38.9162,-94.489966,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018064284,
+2018082437,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Vehicles / Parking,Disabled/Unlicensed on Private Property,Car Private Property,6/24/18,12:03 PM,6,2018,RESOL,N,7/3/18,7,2018,9,917 W 42ND ST,"917 W 42ND ST
+64111
+(39.051986, -94.598316)",64111,Volker,Jackson,4,Central,131425,39.051986,-94.598316,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018082437,
+2018054887,PHONE,NHS,NHS-Solid Waste-Illegal Dumping,Trash / Recycling-Dumping-ROW Central,Trash / Recycling,Dumping,Right of Way Central,5/3/18,11:52 AM,5,2018,RESOL,Y,5/14/18,5,2018,11,3200 LOCKRIDGE ST,"3200 LOCKRIDGE ST
+64128
+(39.07608, -94.545793)",64128,Santa Fe,Jackson,3,East,24390,39.07608,-94.545793,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054887,
+2018054871,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Property / Buildings / Construction,Property Maintenance,Other Property Issue,5/3/18,11:34 AM,5,2018,RESOL,Y,5/14/18,5,2018,11,5700 NW 108TH CT CA,"5700 NW 108TH CT
+CA 64154
+(39.289571, -94.643364)",64154,KCI & 2nd Creek,Platte,2,North,256859,39.289571,-94.643364,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054871,
+2018056491,PHONE,Water Services,Water Services-Line Maintenance-Wastewater,Storm Water / Sewer-Sewer Backup / Leak-In a house,Storm Water / Sewer,Sewer Backup / Leak,In A House,5/7/18,12:42 PM,5,2018,RESOL,Y,7/25/18,7,2018,79,1312 E 56TH ST,"1312 E 56TH ST
+64110
+(39.025445, -94.569742)",64110,Eastern 49-63,Jackson,5,Metro,146976,39.025445,-94.569742,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018056491,
+2018073544,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Recycling-Missed by Contractor South,Trash / Recycling,Recycling,Missed by Contractor South,6/7/18,9:38 AM,6,2018,RESOL,N,6/7/18,6,2018,0,4102 E 112TH ST,"4102 E 112TH ST
+64137
+(38.923603, -94.544069)",64137,Terrace Lake Gardens,Jackson,6,South,62130,38.923603,-94.544069,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018073544,
+2018082442,WEB,NHS,NHS-Solid Waste-,Animals / Pets-Dead Animal -Curb,Animals / Pets,Dead Animal,Curb,6/24/18,3:31 PM,6,2018,RESOL,N,6/25/18,6,2018,1,2118 E 77TH TER,"2118 E 77TH TER
+64132
+(38.986137, -94.56304)",64132,East Meyer 7,Jackson,5,Metro,115756,38.986137,-94.56304,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018082442,
+2018099586,PHONE,Parks and Rec,Parks and Rec-Landscape Services-Forestry,Trees-Trimming-Tree Limbs,Trees,Trimming,Tree Limbs,7/25/18,12:15 PM,7,2018,OPEN,N,,,,,6817 BROOKSIDE RD,"6817 BROOKSIDE RD
+64113
+(39.00521, -94.592656)",64113,Armour Hills,Jackson,6,Metro,111801,39.00521,-94.592656,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099586,0
+2018054923,PHONE,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,5/3/18,12:36 PM,5,2018,OPEN,N,,,,,1812 HOLLY ST,"1812 HOLLY ST
+64102
+(39.090858, -94.59837)",64102,Westside North,Jackson,4,Central,123981,39.090858,-94.59837,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018054923,0
+2018099578,PHONE,Public Works,Public Works-Street and Traffic-District 2,Streets / Roadways / Alleys-Street Clean Up-District 2,Streets / Roadways / Alleys,Street Clean Up,District 2,7/25/18,12:07 PM,7,2018,RESOL,N,7/26/18,7,2018,1,3306 TERRACE ST,"3306 TERRACE ST
+64111
+(39.066718, -94.601219)",64111,Coleman Highlands,Jackson,4,Central,129219,39.066718,-94.601219,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018099578,
+2018082448,WEB,NHS,NHS-Neighborhood Preservation-,Property Violations,Trash / Recycling,Nuisance,Trash on Private Property,6/24/18,4:30 PM,6,2018,RESOL,N,7/3/18,7,2018,9,11057 N LEWIS AVE,"11057 N LEWIS AVE
+64157
+(39.294051, -94.473908)",64157,Shoal Creek,Clay,1,Shoal Creek,99167,39.294051,-94.473908,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018082448,
+2018035521,PHONE,NHS,NHS-Solid Waste-,Trash / Recycling-Dumping-Right of Way,Trash / Recycling,Dumping,Right-Of-Way,3/23/18,9:13 AM,3,2018,RESOL,Y,4/2/18,4,2018,10,3229 PARK AVE,"3229 PARK AVE
+64109
+(39.066902, -94.556117)",64109,Key Coalition,Jackson,3,Central,126124,39.066902,-94.556117,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018035521,
+2018056672,PHONE,KCPD,KCPD-Parking Control-,Vehicles / Parking-Abandoned On Street-Car,Vehicles / Parking,Abandoned On Street,Car,5/7/18,3:01 PM,5,2018,RESOL,N,5/10/18,5,2018,3,3457 HOLMES ST,"3457 HOLMES ST
+64109
+(39.063761, -94.576115)",64109,North Hyde Park,Jackson,4,Central,128501,39.063761,-94.576115,http://webfusion.kcmo.org/coldfusionapps/ActionCenterRequest/CaseInfo.cfm?CaseID=2018056672,
